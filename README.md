@@ -25,16 +25,6 @@ It demonstrates key Power BI data analysis and visualization skills — from con
 
 ---
 
-## 🗂️ Data Sources  
-Sample datasets provided within the Udemy course — including:  
-- Sales transactions  
-- Customer data  
-- Product and region details  
-
-> *All data used is for educational purposes only.*  
-
----
-
 ## 🛠️ Tools & Technologies  
 - 🟡 **Power BI Desktop**  
 - 🧮 **DAX (Data Analysis Expressions)**  
