@@ -58,7 +58,3 @@ Sample datasets provided within the Udemy course — including:
 - Strengthened understanding of **data storytelling** and **dashboard design best practices**.  
 
 ---
-
-## 🙌 Acknowledgment  
-A special thanks to the **Microsoft Power BI: PL-300 Certification Prep (Data Analyst)** course on **Udemy**, introduced by **Maven Analytics** — it provided excellent guidance, hands-on projects, and a clear path to success.  
-**Highly recommended for anyone preparing for this certification!** 🙌  
