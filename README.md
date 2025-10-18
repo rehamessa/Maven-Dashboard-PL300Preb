@@ -45,8 +45,10 @@ Sample datasets provided within the Udemy course — including:
 
 ## 📸 Dashboard Preview  
 
-![Executive Overview](E:\Maven Power Bi Dashboard\Imagesl\Executive Overview)
-
+![Executive Overview](https://github.com/rehamessa/Maven-Dashboard-PL300Preb/blob/main/Images/Executive%20Overview.png)
+![Analysis & Insights](https://github.com/rehamessa/Maven-Dashboard-PL300Preb/blob/main/Images/Analysis%20%26%20Insights.png)
+![Small multiples](https://github.com/rehamessa/Maven-Dashboard-PL300Preb/blob/main/Images/Details%20Tooltips%20(Small%20Multiples).png)
+![Key Influencers](https://github.com/rehamessa/Maven-Dashboard-PL300Preb/blob/main/Images/Key%20Influencers.png)
 
 ---
 
